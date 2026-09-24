@@ -33,13 +33,19 @@ Each skill ships a `references/` folder with distilled upstream documentation
 Expected: the subagent follows `agentickanban-contribute` and gives you the exact commands
 (`git fetch upstream`, rebase, push to your fork, `gh pr create --repo p-wegner/agentic-kanban`).
 
-## Credits
+## Credits & licensing
 
-Knowledge compiled from the upstream
-[agentic-kanban](https://github.com/p-wegner/agentic-kanban) repository (MIT) — its docs,
-decision records and `CLAUDE.md` — plus public ecosystem sources (vibe-kanban by BloopAI,
-Hacker News threads, community reviews). See `LICENSE`.
+This repository is **MIT licensed** — free to use, modify, distribute and commercialize;
+the only requirement is keeping the copyright notice. Content in this repo:
+
+- Original skill/agent documentation written for this plugin (MIT).
+- Extracts from the upstream [agentic-kanban](https://github.com/p-wegner/agentic-kanban)
+  repository and other MIT-licensed GitHub projects, redistributed under their MIT terms
+  with attribution in each file header.
+- Factual data from public GitHub APIs (issues, PRs, releases).
+- Third-party blog/web content (e.g. BloopAI's *Vibe Guide*) is **not** open-licensed:
+  only short original summaries with a link to the source are bundled.
 
 ## License
 
-MIT
+MIT — see [LICENSE](LICENSE).
