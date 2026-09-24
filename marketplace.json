@@ -1,0 +1,22 @@
+{
+  "name": "dev-agentickanban-workspace",
+  "owner": {
+    "name": "Enrique Fica"
+  },
+  "plugins": [
+    {
+      "name": "agentickanban",
+      "source": "./agentickanban",
+      "version": "0.1.0",
+      "description": "Develop, operate and contribute to agentic-kanban (p-wegner/agentic-kanban): expert skills for local development, board operations and upstream PRs, plus an expert subagent",
+      "displayName": "AgenticKanban",
+      "displayName_i18n": {
+        "es": "AgenticKanban"
+      },
+      "description_i18n": {
+        "es": "Desarrolla, opera y contribuye a agentic-kanban: 3 skills expertas y un subagente experto"
+      },
+      "category": "developer-tools"
+    }
+  ]
+}

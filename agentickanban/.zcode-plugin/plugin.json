@@ -1,0 +1,10 @@
+{
+  "name": "agentickanban",
+  "version": "0.1.0",
+  "description": "Develop, operate and contribute to agentic-kanban (p-wegner/agentic-kanban): expert skills for local development, board operations and upstream PRs, plus an expert subagent",
+  "author": {
+    "name": "Enrique Fica"
+  },
+  "skills": "./skills",
+  "agents": "./agents"
+}
